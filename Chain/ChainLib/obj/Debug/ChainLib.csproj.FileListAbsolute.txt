@@ -1,0 +1,6 @@
+C:\Users\Саша\Desktop\Визуалка\аналіз лаби\Chain\ChainLib\bin\Debug\ChainLib.dll
+C:\Users\Саша\Desktop\Визуалка\аналіз лаби\Chain\ChainLib\bin\Debug\ChainLib.pdb
+C:\Users\Саша\Desktop\Визуалка\аналіз лаби\Chain\ChainLib\obj\Debug\ChainLib.csproj.AssemblyReference.cache
+C:\Users\Саша\Desktop\Визуалка\аналіз лаби\Chain\ChainLib\obj\Debug\ChainLib.csproj.CoreCompileInputs.cache
+C:\Users\Саша\Desktop\Визуалка\аналіз лаби\Chain\ChainLib\obj\Debug\ChainLib.dll
+C:\Users\Саша\Desktop\Визуалка\аналіз лаби\Chain\ChainLib\obj\Debug\ChainLib.pdb
